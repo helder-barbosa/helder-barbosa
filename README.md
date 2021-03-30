@@ -8,7 +8,7 @@
 ### 🌱 I’m currently learning ...
 - ReactJS
 - NextJS
-- Databases
+- Databases (Firebase, SQLite, MySQL )
 
 ### 👯 I’m looking to collaborate on ...
 - Share knowledge.
