@@ -9,6 +9,7 @@
 - ReactJS
 - NextJS
 - Databases (Firebase, SQLite, MySQL )
+- RestAPIs and GraphQL.
 
 ### 👯 I’m looking to collaborate on ...
 - Share knowledge.
