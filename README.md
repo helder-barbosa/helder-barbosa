@@ -24,6 +24,6 @@
 
 ### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/helder-barbosa1/)
-
+- Gmail - helderbarbosa.dev@gmail.com
 ![Helder's GitHub stats](https://github-readme-stats.vercel.app/api?username=helder-barbosa&show_icons=true&theme=radical)
 
