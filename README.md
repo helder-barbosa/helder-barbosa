@@ -6,6 +6,7 @@
 
 ### 🔭 I’m currently working on ...
 - Projects to improve knowledge.
+- Become a better Developer.
 
 ### 🌱 I’m currently learning ...
 - ReactJS
