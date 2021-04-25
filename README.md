@@ -12,7 +12,7 @@
 ### 🌱 I’m currently learning ...
 - ReactJS
 - NextJS
-- Databases (Firebase, SQLite, MySQL )
+- Databases (Firebase, SQLite, MySQL, MongoDB )
 - RestAPIs and GraphQL.
 
 ### 👯 I’m looking to collaborate on ...
